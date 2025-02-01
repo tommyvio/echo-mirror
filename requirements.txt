@@ -1,0 +1,8 @@
+Flask
+torch
+torchaudio
+transformers
+openai-whisper
+pyttsx3
+SpeechRecognition
+werkzeug
